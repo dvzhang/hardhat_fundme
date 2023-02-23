@@ -46,7 +46,6 @@ module.exports = {
     etherscan: {
         apiKey: ETHERSCAN_API_KEY,
         // customChains: [], // uncomment this line if you are getting a TypeError: customChains is not iterable
-
     },
     gasReporter: {
         enabled: true,
